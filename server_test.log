@@ -1,0 +1,1565 @@
+2026-05-22 14:44:08,175 - INFO - ============================================================
+2026-05-22 14:44:08,175 - INFO -  AVVIO TEST PIPELINE LOCALE
+2026-05-22 14:44:08,175 - INFO - ============================================================
+2026-05-22 14:44:08,175 - INFO - Domanda in elaborazione: 'What are the main risks and limitations of the Privacy Filter model?'
+2026-05-22 14:44:08,175 - INFO - Documento target: 'OpenAI-Privacy-Filter-Model-Card.pdf'
+2026-05-22 14:44:12,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:12,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:12,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:12,838 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:13,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:14,067 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:14,846 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:15,180 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:15,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:15,834 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:16,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:17,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:17,630 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:17,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:19,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:19,777 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:19,868 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:19,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:20,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:21,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:21,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:22,678 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:22,834 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:24,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:24,513 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:24,520 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:25,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:25,316 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:26,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:26,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:26,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:27,203 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:27,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:28,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:29,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:29,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:35,071 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 14:44:35,245 - INFO - 
+RISULTATO DELLA PIPELINE:
+2026-05-22 14:44:35,246 - INFO - {
+  "question": "What are the main risks and limitations of the Privacy Filter model?",
+  "document_name": "OpenAI-Privacy-Filter-Model-Card.pdf",
+  "units_count": 36,
+  "candidates": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3163897345753977445",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3163897345753977445",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly outlined in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "winning_units": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3163897345753977445",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3163897345753977445",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly outlined in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "answer": {
+    "answer": "The main risks and limitations of the Privacy Filter model include the potential misuse of treating unredacted output as safe for release, over-reliance on the tool as a blanket anonymization claim, and the failure to validate default operating points on the target distribution. It should not be seen as a substitute for policy review or a universal privacy oracle.",
+    "citations": [
+      {
+        "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+        "quote_index": 0,
+        "quote": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system."
+      },
+      {
+        "unit_id": "4_1_over_reliance_risk_p6_51_52",
+        "quote_index": 0,
+        "quote": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives."
+      }
+    ],
+    "status": "answered"
+  },
+  "validation": {
+    "is_valid": true,
+    "errors": []
+  }
+}
+2026-05-22 15:52:06,741 - INFO - ============================================================
+2026-05-22 15:52:06,749 - INFO -  AVVIO TEST PIPELINE LOCALE
+2026-05-22 15:52:06,749 - INFO - ============================================================
+2026-05-22 15:52:06,749 - INFO - Domanda in elaborazione: 'What are the main risks and limitations of the Privacy Filter model?'
+2026-05-22 15:52:06,749 - INFO - Documento target: 'OpenAI-Privacy-Filter-Model-Card.pdf'
+2026-05-22 15:52:10,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:10,938 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:11,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:11,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:12,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:12,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:13,038 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:13,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:14,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:14,566 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:14,931 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:15,763 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:16,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:16,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:16,686 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:16,889 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:17,402 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:18,419 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:18,420 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:19,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:19,859 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:20,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:21,298 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:22,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:23,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:24,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:24,607 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:24,754 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:25,050 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:26,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:26,148 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:27,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:27,847 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:27,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:28,164 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:28,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:34,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-22 15:52:34,353 - INFO - 
+RISULTATO DELLA PIPELINE:
+2026-05-22 15:52:34,354 - INFO - {
+  "question": "What are the main risks and limitations of the Privacy Filter model?",
+  "document_name": "OpenAI-Privacy-Filter-Model-Card.pdf",
+  "units_count": 36,
+  "candidates": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3619578660006569869",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3619578660006569869",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "winning_units": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3619578660006569869",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3619578660006569869",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "answer": {
+    "answer": "The main risks and limitations of the Privacy Filter model include the potential misuse of treating unredacted output as safe for release, over-reliance on the tool as a blanket anonymization claim, and the failure to validate default operating points on the target distribution. It should not be considered a substitute for policy review, a universal privacy oracle, or a legal determination system.",
+    "citations": [
+      {
+        "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+        "quote_index": 0,
+        "quote": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system."
+      },
+      {
+        "unit_id": "4_1_over_reliance_risk_p6_51_52",
+        "quote_index": 0,
+        "quote": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives."
+      }
+    ],
+    "status": "answered"
+  },
+  "validation": {
+    "is_valid": true,
+    "errors": []
+  }
+}
+2026-05-23 10:29:07,356 - INFO - ============================================================
+2026-05-23 10:29:07,357 - INFO -  AVVIO TEST PIPELINE LOCALE
+2026-05-23 10:29:07,357 - INFO - ============================================================
+2026-05-23 10:29:07,358 - INFO - Domanda in elaborazione: 'What are the main risks and limitations of the Privacy Filter model?'
+2026-05-23 10:29:07,358 - INFO - Documento target: 'OpenAI-Privacy-Filter-Model-Card.pdf'
+2026-05-23 10:29:11,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:11,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:11,706 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:11,761 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:12,481 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:13,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:13,595 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:13,891 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:15,056 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:15,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:16,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:16,383 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:17,106 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:17,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:18,225 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:18,317 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:19,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:19,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:20,185 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:20,320 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:20,888 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:21,022 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:22,152 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:22,293 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:22,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:23,120 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:23,672 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:23,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:24,707 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:25,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:25,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:26,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:26,992 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:27,608 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:28,251 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:29:58,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:30:03,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:30:03,727 - INFO - 
+RISULTATO DELLA PIPELINE:
+2026-05-23 10:30:03,727 - INFO - {
+  "question": "What are the main risks and limitations of the Privacy Filter model?",
+  "document_name": "OpenAI-Privacy-Filter-Model-Card.pdf",
+  "units_count": 36,
+  "candidates": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_2612355530269690576",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly outlined in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_2612355530269690576",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "winning_units": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_2612355530269690576",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly outlined in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_2612355530269690576",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "answer": {
+    "answer": "The main risks and limitations of the Privacy Filter model include the potential misuse of treating unredacted output as safe for release, over-reliance on the tool as a blanket anonymization claim, and the failure to validate default operating points on the target distribution. It should not be considered a substitute for policy review, a universal privacy oracle, or a legal determination system.",
+    "citations": [
+      {
+        "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+        "quote_index": 0,
+        "quote": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system."
+      },
+      {
+        "unit_id": "4_1_over_reliance_risk_p6_51_52",
+        "quote_index": 0,
+        "quote": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives."
+      }
+    ],
+    "status": "answered"
+  },
+  "validation": {
+    "is_valid": true,
+    "errors": []
+  }
+}
+2026-05-23 10:54:36,382 - INFO - ============================================================
+2026-05-23 10:54:36,383 - INFO -  AVVIO TEST PIPELINE LOCALE
+2026-05-23 10:54:36,383 - INFO - ============================================================
+2026-05-23 10:54:36,383 - INFO - Domanda in elaborazione: 'What are the main risks and limitations of the Privacy Filter model?'
+2026-05-23 10:54:36,383 - INFO - Documento target: 'OpenAI-Privacy-Filter-Model-Card.pdf'
+2026-05-23 10:54:39,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:39,462 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:39,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:39,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:39,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:40,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:41,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:41,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:41,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:42,403 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:43,055 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:43,123 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:43,716 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:43,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:44,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:44,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:45,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:46,066 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:46,869 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:46,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:47,192 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:47,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:49,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:49,111 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:49,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:49,318 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:50,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:50,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:50,993 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:51,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:52,699 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:52,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:52,868 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:52,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:55,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:54:59,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:55:04,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 10:55:05,021 - INFO - 
+RISULTATO DELLA PIPELINE:
+2026-05-23 10:55:05,022 - INFO - {
+  "question": "What are the main risks and limitations of the Privacy Filter model?",
+  "document_name": "OpenAI-Privacy-Filter-Model-Card.pdf",
+  "units_count": 36,
+  "candidates": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3679926351032684795",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3679926351032684795",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "winning_units": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3679926351032684795",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly detailed in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_3679926351032684795",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "answer": {
+    "answer": "The main risks and limitations of the Privacy Filter model include the potential misuse of treating unredacted output as safe for release, over-reliance on the tool as a blanket anonymization claim, and the failure to validate default operating points on the target distribution. It should not be considered a substitute for policy review, a universal privacy oracle, or a legal determination system.",
+    "citations": [
+      {
+        "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+        "quote_index": 0,
+        "quote": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system."
+      },
+      {
+        "unit_id": "4_1_over_reliance_risk_p6_51_52",
+        "quote_index": 0,
+        "quote": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives."
+      }
+    ],
+    "status": "answered"
+  },
+  "validation": {
+    "is_valid": true,
+    "errors": []
+  }
+}
+2026-05-23 11:01:30,160 - INFO - ============================================================
+2026-05-23 11:01:30,161 - INFO -  AVVIO TEST PIPELINE LOCALE
+2026-05-23 11:01:30,161 - INFO - ============================================================
+2026-05-23 11:01:30,161 - INFO - Domanda in elaborazione: 'What are the main risks and limitations of the Privacy Filter model?'
+2026-05-23 11:01:30,161 - INFO - Documento target: 'OpenAI-Privacy-Filter-Model-Card.pdf'
+2026-05-23 11:01:33,109 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:33,690 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:33,964 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:34,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:34,647 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:34,729 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:36,238 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:36,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:37,390 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:37,620 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:38,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:38,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:39,748 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:39,764 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:40,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:40,722 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:41,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:42,067 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:42,573 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:42,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:43,126 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:43,572 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:43,864 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:44,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:45,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:45,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:45,353 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:46,048 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:46,866 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:47,078 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:47,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:48,114 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:48,402 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:49,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:49,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:49,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:55,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-23 11:01:55,215 - INFO - 
+RISULTATO DELLA PIPELINE:
+2026-05-23 11:01:55,215 - INFO - {
+  "question": "What are the main risks and limitations of the Privacy Filter model?",
+  "document_name": "OpenAI-Privacy-Filter-Model-Card.pdf",
+  "units_count": 36,
+  "candidates": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_1648636314723455524",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly outlined in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_1648636314723455524",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "winning_units": [
+    {
+      "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+      "unit_type": "mixed",
+      "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str",
+      "summary": "Privacy Filter is not a guarantee for anonymization, compliance, safety, or legal determinations; Misuse Risks ** Misuse includes treating unredacted output as safe, relying on default settings without validation, and ignoring local policy requirements for redaction criteria",
+      "themes": [
+        "Privacy Filter Limitations"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          47,
+          48,
+          49
+        ],
+        "section": "3.2 Out-of-Scope and Misuse",
+        "display_name": "3.2 Out-of-Scope and Misuse",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_1648636314723455524",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system.\n\nPotential misuse includes treating unredacted output as safe for release, relying on default operating\npoints without validating them on the target distribution, or skipping domain adaptation when local\npolicy requires materially str"
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are explicitly outlined in the MAIN TEXT and supported by the EVIDENCE QUOTE.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49"
+        }
+      }
+    },
+    {
+      "unit_id": "4_1_over_reliance_risk_p6_51_52",
+      "unit_type": "mixed",
+      "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach.",
+      "summary": "provides efficient, high-quality PII detection with a compact, bidirectional classifier; supports multilingual privacy filtering with good precision and recall; designed to be lightweight, inspectable, and adaptable for integration in privacy workflows; handles adversarial formatting variations though some reduce detection accuracy; released as a preview for community feedback and improvement.$$Privacy Technology ** evaluates performance across multiple languages and adversarial contexts to ensure robustness; includes handling of formatting challenges like line breaks, symbol substitution, and word replacements; aims to improve model quality, multilingual coverage, and deployment practicality. tool for redaction and data minimization; Privacy Filter ** not a guarantee of anonymization or compliance; Over-reliance Risk ** relying solely on Privacy Filter risks missing privacy goals; Privacy Approach ** best used as part of multiple layers in privacy-by-design",
+      "themes": [
+        "Privacy Filter",
+        "$Privacy Filter"
+      ],
+      "possible_questions": [
+        {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "score": null,
+          "source": "stored_context_unit_property",
+          "created_at": null
+        }
+      ],
+      "evidence": [
+        {
+          "quote_index": 0,
+          "text": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        }
+      ],
+      "metadata": {
+        "page_ids": [
+          6
+        ],
+        "source_ids": [
+          51,
+          52
+        ],
+        "section": "4.1 Over-reliance Risk",
+        "display_name": "4.1 Over-reliance Risk",
+        "file_name": "OpenAI-Privacy-Filter-Model-Card.pdf"
+      },
+      "answerability": {
+        "question": "What are the main risks and limitations of the Privacy Filter model?",
+        "question_id": "q_1648636314723455524",
+        "score": 1.0,
+        "attributable": true,
+        "supporting_quote_indices": [
+          0
+        ],
+        "supporting_quotes": [
+          "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives. Privacy Filter is best used as one of multiple layers in a holistic end-to-\nend privacy-by-design approach."
+        ],
+        "missing": [],
+        "why": "The main risks and limitations of the Privacy Filter model are clearly articulated in the evidence quote, which states that it is not a guarantee of anonymization or compliance and that over-reliance on it could lead to missing privacy objectives.",
+        "existing_question_match": true,
+        "matched_possible_question": "What are the main risks and limitations of the Privacy Filter model?",
+        "matched_possible_question_score": 1.0,
+        "should_save_possible_question": false,
+        "possible_question": {
+          "text": "What are the main risks and limitations of the Privacy Filter model?",
+          "source": "user_question_after_successful_answer",
+          "score": 1.0,
+          "created_from_unit_id": "4_1_over_reliance_risk_p6_51_52"
+        }
+      }
+    }
+  ],
+  "answer": {
+    "answer": "The main risks and limitations of the Privacy Filter model include the potential misuse of treating unredacted output as safe for release, over-reliance on the tool as a blanket anonymization claim, and the failure to validate default operating points on the target distribution. It should not be seen as a substitute for policy review or a universal privacy oracle.",
+    "citations": [
+      {
+        "unit_id": "3_2_out_of_scope_and_misuse_p6_47_48_49",
+        "quote_index": 0,
+        "quote": "Privacy Filter should not be treated as an anonymization, compliance, or safety guarantee, a substitute for policy review in high-stakes deployments, a universal privacy oracle with fixed behavior across all text genres and regions, or a legal determination system."
+      },
+      {
+        "unit_id": "4_1_over_reliance_risk_p6_51_52",
+        "quote_index": 0,
+        "quote": "Privacy Filter is a redaction and data minimization aid, not an anonymization, compliance, or a safety guarantee. Over-reliance on the tool as a blanket anonymization claim would risk missing desired privacy objectives."
+      }
+    ],
+    "status": "answered"
+  },
+  "validation": {
+    "is_valid": true,
+    "errors": []
+  }
+}
