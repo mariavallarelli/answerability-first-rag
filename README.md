@@ -15,6 +15,34 @@ The system uses an LLM orchestrator to:
 * Neo4j / AuraDB instance
 * OpenAI API Key
 
+## Neo4j / AuraDB Setup
+
+The demo requires a Neo4j database.
+
+If you do not already have a Neo4j instance available, you can create a free AuraDB instance:
+
+1. Create an account on Neo4j Aura.
+2. Create a new **AuraDB Free** instance.
+3. Wait for the database to be provisioned.
+4. Copy the connection details:
+
+   * URI
+   * Username
+   * Password
+5. Add these values to your `.env` file.
+
+Example:
+
+```env
+OPENAI_API_KEY=your_openai_api_key_here
+NEO4J_URI=neo4j+s://xxxxxxxx.databases.neo4j.io
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=your_password
+```
+
+AuraDB Free is sufficient to run the complete demo and avoids the need to install Neo4j locally.
+
+
 ## Installation
 
 ### 1. Create and activate a virtual environment
